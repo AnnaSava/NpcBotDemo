@@ -1,0 +1,46 @@
+{
+  "Bots": [
+    {
+      "Name": "SavaBot1910",
+      "UserName": "SavaBot1910_bot",
+      "Token": ""
+    }
+  ],
+  "Subscriptions": [
+    {
+      "Service": "Npc",
+      "ChatId": "410219859",
+      "Whois": "Sava",
+      "IsActive": "true",
+      "Timezone": "Europe/Moscow",
+      "Timetables": [
+        "Иванова Иванна Ивановна"
+      ]
+    },
+    {
+      "Service": "Calendly",
+      "ChatId": "410219859",
+      "Whois": "Sava",
+      "IsActive": "true",
+      "Timezone": "Europe/Moscow",
+      "Timetables": [
+        "GUID"
+      ]
+    }
+  ],
+  "HealthcheckSubscriptions": [
+    {
+      "ChatId": "410219859",
+      "TimeUtc": "6",
+      "IsActive": "true"
+    }
+  ],
+  "NpcClinics": [
+    {
+      "ClinicId": "1",
+      "Doctors": [
+        "Иванова Иванна Ивановна"
+      ]
+    }
+  ]
+}
